@@ -1,4 +1,4 @@
-# SelMar2021
+# Selenium WebDriver Course for March 2021 Online Learners
 This is public repository for Selenium Learners at TestLeaf.
 
 # Week1 - Core Java Basics 
