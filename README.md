@@ -26,3 +26,13 @@ This is public repository for Selenium Learners at TestLeaf.
 * Implicit and Explicit Waits
 * Webdriver Snapshot methods for visible area and webelement - Base64 and File
 * Assignments Review
+
+# Week 3 - Java OOPS, Collection and WebDriverWait
+* Java OOPS pillars 
+* Abstraction - Java Concept, Real time example and Selenium Implementation
+* Inheritance, Polymorphism, Encapsulation 
+* WebDriverWait, Expectedconditions, TimeOutExceptions
+* RedBus automation example with Disable Notification, Click Intercepted Exception
+* Java Collection - List, Set, Map
+* Problem Solving - Duplicate values in array, Unique characters in String, Count of characters and Two Sum
+* Assignment Review
