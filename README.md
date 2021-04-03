@@ -36,3 +36,14 @@ This is public repository for Selenium Learners at TestLeaf.
 * Java Collection - List, Set, Map
 * Problem Solving - Duplicate values in array, Unique characters in String, Count of characters and Two Sum
 * Assignment Review
+
+# Week 4 - Target Locators and Actions
+* SwithTo - RemoteTargetLocator
+* Alert - accept, dismiss, getText, sendKeys, Exceptions
+* Frame - method overloading (int,String, WebElement), Exception
+* DefaultContent, ParentFrame - Switch back from frame
+* Window - getWindowHandles, getWindowHandle, Exception
+* Switch to Window Options - Set to List, Iterator
+* close vs quit
+* ActiveElement & New Window feature in Selenium 4.0
+* Actions class methods - dragAndDrop, dragAndDropBy, moveToElement, pause, perform
