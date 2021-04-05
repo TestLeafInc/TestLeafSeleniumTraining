@@ -38,7 +38,7 @@ This is public repository for Selenium Learners at TestLeaf.
 * Assignment Review
 
 # Week 4 - Target Locators and Actions
-* SwithTo - RemoteTargetLocator
+* SwitchTo - RemoteTargetLocator
 * Alert - accept, dismiss, getText, sendKeys, Exceptions
 * Frame - method overloading (int,String, WebElement), Exception
 * DefaultContent, ParentFrame - Switch back from frame
@@ -47,3 +47,7 @@ This is public repository for Selenium Learners at TestLeaf.
 * close vs quit
 * ActiveElement & New Window feature in Selenium 4.0
 * Actions class methods - dragAndDrop, dragAndDropBy, moveToElement, pause, perform
+* Other Actions class - clickAndHold, keyDown, release
+* Exception Handling - try/catch, throw, throws, finally
+* End to End testcase for retail website 
+
