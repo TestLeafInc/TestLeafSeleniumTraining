@@ -51,3 +51,16 @@ This is public repository for Selenium Learners at TestLeaf.
 * Exception Handling - try/catch, throw, throws, finally
 * End to End testcase for retail website 
 
+# Week 5 - TestNg (Test Runner Framework)
+* TestNg Basics
+* Annotations and its hierarchy
+* @Test Annotations and its attributes
+* Dependency Injection
+* Test Report using TestNg
+* Parameterization - @Parameter and @DataProvider
+* Read Excel using Apache POI Java API
+* Integrate excel data automation with TestNg (Apache POI + Data Provider)
+* Build OOPS concepts into TestNg implementation 
+* Convert existing plain testcases to TestNg implemntation
+* Run seuqntial, parallel - with logs and reports
+
