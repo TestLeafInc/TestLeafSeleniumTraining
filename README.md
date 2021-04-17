@@ -54,13 +54,25 @@ This is public repository for Selenium Learners at TestLeaf.
 # Week 5 - TestNg (Test Runner Framework)
 * TestNg Basics
 * Annotations and its hierarchy
-* @Test Annotations and its attributes
+* TestNg XML design
+* @Test Annotation and its attributes
 * Dependency Injection
 * Test Report using TestNg
 * Parameterization - @Parameter and @DataProvider
 * Read Excel using Apache POI Java API
 * Integrate excel data automation with TestNg (Apache POI + Data Provider)
 * Build OOPS concepts into TestNg implementation 
-* Convert existing plain testcases to TestNg implemntation
-* Run seuqntial, parallel - with logs and reports
+* Convert existing plain testcases to TestNg implementation
+* Run sequential, parallel - with logs and reports
 
+# Week 6 - Cucumber Basics to Advanced (BDD Framework)
+* Cucumber and BDD, TDD Basics
+* Create Feature File with simple scenario
+* Cucumber - Gherkin Keywords
+* Integration with Step Definitions
+* Scenario Outline with Examples and with Background
+* CucumberOptions - Glue, MonoChrome, Report, Hooks
+* Create Runner File with TestNG
+* Cucumber Hooks and Java OOPS integration
+* Convert existing TestNg testcases to BDD implemntation
+* Run Feature files from TestNg XML
