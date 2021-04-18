@@ -64,6 +64,7 @@ This is public repository for Selenium Learners at TestLeaf.
 * Build OOPS concepts into TestNg implementation 
 * Convert existing plain testcases to TestNg implementation
 * Run sequential, parallel - with logs and reports
+* Listeners - ISuite, ITest and Retry Implementations
 
 # Week 6 - Cucumber Basics to Advanced (BDD Framework)
 * Cucumber and BDD, TDD Basics
