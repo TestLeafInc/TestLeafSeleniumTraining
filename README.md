@@ -77,3 +77,13 @@ This is public repository for Selenium Learners at TestLeaf.
 * Cucumber Hooks and Java OOPS integration
 * Convert existing TestNg testcases to BDD implemntation
 * Run Feature files from TestNg XML
+
+# Week 7 - Pattern Object Model Design Pattern and Framework
+* Page Object Model design rules
+* Pattern Object model - Page Inheritance
+* Build Page Classes (without Page Factory)
+* Build DataProvider utility classes
+* Build the testcases as runner classes
+* Design the TestNg XML with verbose
+* Debug and execute the testcases for different data 
+
