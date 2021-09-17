@@ -87,3 +87,5 @@ This is public repository for Selenium Learners at TestLeaf.
 * Design the TestNg XML with verbose
 * Debug and execute the testcases for different data 
 
+# Week 8 - Hybrid framework with Thread-Local
+* ThreadLocal Implementation for Driver, Reports
