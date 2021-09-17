@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27397" started-at="2021-08-12T17:15:24 IST" finished-at="2021-08-12T17:15:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27397" started-at="2021-08-12T17:15:24 IST" finished-at="2021-08-12T17:15:51 IST">
+      <class name="com.salesforce.testcases.TC001_VerifyLogin">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="startReport" is-config="true" duration-ms="373" started-at="2021-08-12T17:15:24 IST" finished-at="2021-08-12T17:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="setValues" is-config="true" duration-ms="0" started-at="2021-08-12T17:15:24 IST" finished-at="2021-08-12T17:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="startTestCase()[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="startTestCase" is-config="true" duration-ms="27" started-at="2021-08-12T17:15:24 IST" finished-at="2021-08-12T17:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="preCondition" is-config="true" duration-ms="7018" started-at="2021-08-12T17:15:25 IST" finished-at="2021-08-12T17:15:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runLogin(java.lang.String, java.lang.String)[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="runLogin" duration-ms="18815" started-at="2021-08-12T17:15:32 IST" data-provider="fetchData" finished-at="2021-08-12T17:15:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[makaia@testleaf.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SelBootcamp$123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method status="PASS" signature="endResult()[pri:0, instance:com.salesforce.testcases.TC001_VerifyLogin@33723e30]" name="endResult" is-config="true" duration-ms="2520" started-at="2021-08-12T17:15:51 IST" finished-at="2021-08-12T17:15:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endResult -->
+      </class> <!-- com.salesforce.testcases.TC001_VerifyLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
